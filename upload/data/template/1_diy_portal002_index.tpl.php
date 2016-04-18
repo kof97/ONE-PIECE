@@ -1,0 +1,139 @@
+<?php if(!defined('IN_DISCUZ')) exit('Access Denied'); hookscriptoutput('index');?><?php include template('common/header'); ?><frameset style="height:100%;width:100%;">
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="海贼王">
+    <meta name="author" content="海贼">
+
+    <title>海贼王</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="./template/default/portal002/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="./template/default/portal002/js/ie8-responsive-file-warning.js" type="text/javascript"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="./template/default/portal002/js/html5shiv.min.js" type="text/javascript"></script>
+      <script src="./template/default/portal002/js/respond.min.js" type="text/javascript"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="./template/default/portal002/tupian/11.png" alt="First slide" border="0" width="100%"/>
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 style="font-size:23px;">海贼王，我当定了！</h1>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button"  >了解更多</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="./template/default/portal002/tupian/22.jpeg" alt="Second slide" border="0" width="100%"/>
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 style="font-size:23px;">飞翔的梅里号</h1>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button" >了解更多</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="./template/default/portal002/tupian/33.jpg" alt="Third slide" border="0" width="100%"/>
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 style="font-size:23px;">强者天下</h1>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button" >了解更多</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div>
+
+    <div class="container marketing">
+
+<hr class="featurette-divider">
+
+
+    <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">草帽海贼团中的那些难忘的瞬间<span class="text-muted">&nbsp;&nbsp;&nbsp;&nbsp;let us see it</span></h2>
+          <p class="lead"> 										   
+            <ul>
+              <li><a href="index1.html" target="_blank";><span style="font-size:14px;color:#264863;">草帽海贼团中的那些点点难忘眼泪</span></a></li><hr />
+              <li><a href="index1.html" target="_blank";><span style="font-size:14px;color:#264863;">永远的梅里号</span></a></li><hr />
+              <li><a href="index1.html" target="_blank";><span style="font-size:14px;color:#264863;">不败的王者，Portgas.D.Ace</span></a></li><hr />
+            </ul>
+            <a href="index1.html" target="_blank";><span style="font-size:16px;float:right;">更多..</span></a>
+          </p>											   
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="./template/default/portal002/tupian/1.jpg" alt="Generic placeholder image"/>
+        </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="./template/default/portal002/tupian/2.jpg" alt="Generic placeholder image"/>
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">永不屈服的意志<span class="text-muted">&nbsp;&nbsp;&nbsp;&nbsp;warning</span></h2>
+          <p class="lead">
+    <ul>
+              <li><a href="index2.html" target="_blank";><span style="font-size:14px;color:#264863;">索隆：那些所谓最强的剑，就是能保护想要保护的东西！</span></a></li><hr />
+              <li><a href="index2.html" target="_blank";><span style="font-size:14px;color:#264863;">山治：哼...我不过是借个火点烟而已</span></a></li><hr />
+              <li><a href="index2.html" target="_blank";><span style="font-size:14px;color:#264863;">黑胡子：人的梦想，是不会终结的！</span></a></li><hr />
+            </ul>
+            <a href="index2.html" target="_blank";><span style="font-size:16px;float:right;">更多..</span></a>
+  </p>
+        </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">经典瞬间<span class="text-muted">&nbsp;&nbsp;&nbsp;&nbsp;our voice</span></h2>
+          <p class="lead">
+    <ul>
+              <li><a href="index3.html" target="_blank";><span style="font-size:14px;color:#264863;">克洛克达尔：弱者是没有资格谈正义的！ </span></a></li><hr />
+              <li><a href="index3.html" target="_blank";><span style="font-size:14px;color:#264863;">山治：能够原谅女人谎话的，才是男人！</span></a></li><hr />
+              <li><a href="index3.html" target="_blank";><span style="font-size:14px;color:#264863;">Mr 2：无论是偏离了男人之道还是女人之道，始终没有偏离人道...再会了，我的朋友，海上扬起的涟漪，正是我为你散落的友谊之花。</span></a></li><hr />
+            </ul>
+            <a href="index3.html" target="_blank";><span style="font-size:16px;float:right;">更多..</span></a>
+  </p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" style="float:right;" src="./template/default/portal002/tupian/3.jpg" alt="Generic placeholder image"/>
+        </div>
+    </div>
+
+  
+<br /><br /> 
+    <hr class="featurette-divider"> 	  
+  
+
+  
+    
+    <script src="./template/default/portal002/js/jquery.min.js" type="text/javascript"></script>
+    <script src="./template/default/portal002/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="./template/default/portal002/js/holder.min.js" type="text/javascript"></script>
+  </body>
+</html>
+</frameset><?php include template('common/footer'); ?>
